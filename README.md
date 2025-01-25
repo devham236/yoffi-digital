@@ -8,7 +8,7 @@
 git clone https://github.com/devham236/yoffi-digital.git
 ```
 
-2. **Open Project and start local live Server**
+2. **Open project and start local live server**
 
 ## Technologies Used
 - HTML
