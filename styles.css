@@ -64,7 +64,7 @@ main{
     color: #fff;
     background-color: var(--dark-green);
     letter-spacing: 2px;
-    font-weight: 600;
+    font-weight: 400;
     border: none;
     font-size: 1.1rem;
     cursor: pointer;
