@@ -22,18 +22,24 @@ main{
     justify-content: center;
     align-items: center;
     height: 100dvh;
+    max-height: 1400px;
 }
 
 /*HERO SECTION STYLES*/
 .hero-section{
+    height: 100%;
     width: 50%;
     text-align: end;
     padding: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
 }
 
 .hero-section .hero-container{
     color: var(--dark-green);
     letter-spacing: 1px;
+
 }
 
 .hero-section .hero-container > *:nth-child(1){
@@ -77,6 +83,8 @@ main{
     object-fit: cover;
 }
 
+
+/*RESPONSIVE STYLES*/
 @media screen and (max-width: 768px){
     main{
         flex-direction: column;
